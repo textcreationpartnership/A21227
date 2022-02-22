@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortacion to als [sic] English subiects, to ioine for the defence of Queene Elziabeth [sic], and their natiue country</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21227</idno>
+            <idno type="STC">STC 7582</idno>
+            <idno type="STC">ESTC S105448</idno>
+            <idno type="EEBO-CITATION">99841176</idno>
+            <idno type="PROQUEST">99841176</idno>
+            <idno type="VID">5738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 290:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortacion to als [sic] English subiects, to ioine for the defence of Queene Elziabeth [sic], and their natiue country</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Iohnes,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1588?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5738:1"/>
+            <pb facs="tcp:5738:1"/>
+            <figure>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>English royal blazon, surmounted by a crown</figDesc>
+            </figure>
+            <p>AN EXHORTACION to all Engliſh Subiects, to ioine for the defence of Queene ELZIABETH, and their natiue country.</p>
+            <p>¶Printed by <hi>Richard Iohnes.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:5738:2"/>
+            <pb facs="tcp:5738:2"/>
+            <head>AN EXHORTATION to al Engliſh Subiects.</head>
+            <l>
+               <seg rend="decorInit">A</seg>Wake each Engliſh wight,</l>
+            <l>both high and low awake:</l>
+            <l>Feare not the froward boaſting braggs,</l>
+            <l>that forraine foes doe make,</l>
+            <l>Conſpiring you to ſpoile,</l>
+            <l>for ſticking to the troth:</l>
+            <l>And for reforming vile abuſe,</l>
+            <l>of ſuch as liu'd in ſloth.</l>
+            <l>But way the rightfull ground,</l>
+            <l>and ſtate wherein you ſtand:</l>
+            <l>And marke th'accurſed cruell caſe, that they doe take in hand.</l>
+            <l>You doe your ſacred faith, and countries ſoile defend</l>
+            <l>T'abolliſh faith, and conquer you, they ſurely doe intend:</l>
+            <l>Each cauſe of yours may cauſe your hart, great comfort take,</l>
+            <l>Each cauſe of theirs may iuſtly cauſe, their coward hart to quake</l>
+            <l>They hope perhaps to haue, ſome helpe within this Ile,</l>
+            <l>But ſure I truſt their firmeſt frinds, will iuſtly them beguile.</l>
+            <pb facs="tcp:5738:3"/>
+            <l>For though they thinke that ſome doe ſo digreſſe from kinde,</l>
+            <l>That ſubtil peeuiſh practiſes, can change their Engliſh minde:</l>
+            <l>I truſt if triall hap, they ſhall haue their deſarts,</l>
+            <l>Not traitors aide, but ſharpe reuenge by truſtie Engliſh harts.</l>
+            <l>Thinke they we force ſo light the Engliſh ſoile,</l>
+            <l>Our natiue countrie ſo long kept, will we now loſe with foile:</l>
+            <l>Our kindred and alies<g ref="char:punc">▪</g> our wiues and children deare,</l>
+            <l>Shall we not ſeeke to ſhield from death: ſhall we ſo vile appeare.</l>
+            <l>I hope what euer cauſe may cauſe debates to bee</l>
+            <l>The douht to loſe life, lands and goods, will cauſe vs to agree:</l>
+            <l>To ioine our willing mindes, our goods and greateſt force,</l>
+            <l>T'annoie our foes, to ſhield our ſelfe from bloudie ſtained corſe,</l>
+            <l>What ſhould vs daunt one iot: or make vs be diſmaid,</l>
+            <l>Let neuer threats of foreine foes, make Engliſh men afraid:</l>
+            <l>Looke backe to ancient writ of valiant enterprize:</l>
+            <l>And ſee with how great foiles their foes your elders did agrize,</l>
+            <l>The <hi>French</hi> haue often found the force of <hi>Engliſh</hi> harts,</l>
+            <l>The <hi>Spaniards</hi> (if they call to minde) haue felt thereof their parts</l>
+            <l>The <hi>Scot</hi> can make no boaſt of many ouerthrowes,</l>
+            <l>The ſtories tell in moſt attempts, theſe bare a way the blowes.</l>
+            <l>We that haue then ſo oft, beene vſde to victories,</l>
+            <l>Shall we now doubt for to ſubdue, ſuch deadly enemies:</l>
+            <l>Nay rather thinke we ſure, that ſuch their plagues forepaſt,</l>
+            <l>To deale with vs within this ile, will make them ſore agaſt.</l>
+            <pb facs="tcp:5738:3"/>
+            <l>I truſt, as of one realme, euen ſo they ſhall vs ſee,</l>
+            <l>Of one allegeance, of one heart and firme fidelitie:</l>
+            <l>Behold the wofull ſtate, our neighbours ſtand ſtill in,</l>
+            <l>By cloaked craft, and ſhow of ſooth, their ſortowes did begin.</l>
+            <l>What traines by tyrants tride, what ſtore of guiltleſſe blood,</l>
+            <l>Euen from the harts of innocents, was ſhed with cruel mood</l>
+            <l>No faith, no truth, no law, nor naturall loue tooke place,</l>
+            <l>O curſed <hi>Caines,</hi> O cruell facts, O deadly wofull caſe.</l>
+            <l>Thoſe that did nothing doubt, defended for to bee,</l>
+            <l>Doe now with bitter teares lament, their heauie haps you ſee:</l>
+            <l>Their land and riches great, confiſcate to the ſpoile,</l>
+            <l>That they &amp; theirs in manie yeares, haue woon with painful toile</l>
+            <l>And ſhall we thinke to find, more courteſie then thoſe,</l>
+            <l>If we permit and notwithſtand, the force of forreine foes:</l>
+            <l>Nay rather this deceit may driue vs for to dread,</l>
+            <l>And of ſuch like moſt ſubtill ſlight, to take moſt carefull heede,</l>
+            <l>Our foes like friends, will faine to come for our ſoules health,</l>
+            <l>But God doth know their foule prentenſe: they ſhoot but at our wealth,</l>
+            <l>With loſſe of life to all, let each him ſelfe aſſure,</l>
+            <l>The proteſtant and papiſt both, like torment ſhall indure.</l>
+            <l>In hiſtories we read (each wight take heede therefore,</l>
+            <l>The traitor to his country ſoile, is neuer truſted more:</l>
+            <l>No, not by ſuch as wan the gole by his deceit,</l>
+            <l>Who rather cuts him off before, he worke a ſecond ſleit.</l>
+            <pb facs="tcp:5738:4"/>
+            <l>Though ſome by feare be fled, for that they neede not dreede,</l>
+            <l>And ſome againe for want of wit, or want of better reede</l>
+            <l>When they ſhall wiſelie wey, what realmes haue run to wracke,</l>
+            <l>Where ſuch as they with forraine foes, their owne haue ſought to ſacke:</l>
+            <l>Though now they be abuſde, yet God I hope will than,</l>
+            <l>So rule their hearts for countries cauſe, to change the<g ref="char:cmbAbbrStroke">̄</g> euery man,</l>
+            <l>To helpe the hope they haue, for that we not agree,</l>
+            <l>(As they ſuppoſe for ſacred writ) moſt iuſtly forceth mee:</l>
+            <l>To call to minde th'aduiſe of <hi>Scorios</hi> hoaſt alone,</l>
+            <l>The <hi>Romans</hi> in diſſention then, that he would ſet vpon.</l>
+            <l>Not ſo, then <hi>Scorio</hi> ſaid, I not allow your reede,</l>
+            <l>For that were euen the neereſt way, to make them ſoone agreede</l>
+            <l>For argument whereof, two Maſtiues foorth he brought,</l>
+            <l>And deadly foes he did them make, by cauſe right aptly ſought:</l>
+            <l>A woolfe put forth in place, no ſooner in their ſight,</l>
+            <l>But they as friends their common foe, did ſet vpon with ſpight.</l>
+            <l>Let then our foes forecaſt, in ſeeking vs to ſacke,</l>
+            <l>That naturall loue in Engliſh harts, ſhall not be ſeene to lacke.</l>
+            <l>And lacke we men to fight' nay were there euer moe.</l>
+            <l>More actiue, or more firmely bent, to kill their common foe:</l>
+            <l>Munition wanteth not, nor ordinance for war,</l>
+            <l>Each ſtore-houſe ſtuft, each priuate houſe, hath furniture from fat</l>
+            <pb facs="tcp:5738:4"/>
+            <l>Our Queene hath courage ſtout, hir ſubiects to defend,</l>
+            <l>Her people haue as willing mindes, their goods and life to ſpend.</l>
+            <l>The cauſe is chiefly Gods, whom euer his elect,</l>
+            <l>Haue found moſt ready from their foes, to ſhield them &amp; protect,</l>
+            <l>Examples manifold for proofe heereof moſt ſtrong,</l>
+            <l>I might alledge, but ſome perhaps, would think the work too long</l>
+            <l>Let thys therefore ſuffice, and let vs firmely truſt,</l>
+            <l>God neuer did, nor neuer will, forget them that be iuſt.</l>
+            <l>Let each repent in hart, and mend that is amiſſe,</l>
+            <l>Then God no doubt our cheife defence, will take vs to be his<g ref="char:punc">▪</g>
+            </l>
+            <l>Who grant vs all t'agree, our countrie to defend,</l>
+            <l>And to vouchſafe into our harts, his holy ſpirit to ſend.</l>
+            <l>That we may grace obtaine, by his moſt gratious will,</l>
+            <l>Let euery well diſpoſed wight, crie out vnto him ſtill:</l>
+            <l>Looke Lord on Englands ſtate, we humbly pray thee then,</l>
+            <l>And grant that each true Engliſh hart, conſent to ſay, Amen.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
